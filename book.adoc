@@ -1,0 +1,47 @@
+= Título documento
+:doctype: book
+:toc: 
+:!author: Nome do autor
+:lang: gl
+:encoding: utf-8
+:reproducible:
+:show-link-uri:
+:icons: font
+:data-uri:
+:source-highlighter: rouge
+:pdf-page-size: A4
+:forceinclude:
+:experimental:
+:text-alignment: left
+//:front-cover-image: image:./images/cover.jpg[]
+//:back-cover-image: image:./images/cover.jpg[]
+
+include::./resources/locale/attributes.adoc[]
+
+== Título nivel II
+
+Máis información de http://asciidoc.org[AsciiDoc].
+
+[square]
+* item 1
+* item 2
+
+
+|===
+| Cabeceira 1 | Cabeceira 2
+
+| Valor 1
+| Valor 2
+
+|===
+
+
+.Imaxe aleatoria
+image::./images/132-800x600.jpg[Texto alternativo]
+
+
+[source,bash]
+----
+echo "Ola mundo"
+----
+

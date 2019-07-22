@@ -1,0 +1,15 @@
+:appendix-caption: Anexo
+:caution-caption: Codado
+:chapter-label: Capítulo
+:example-caption: Exemplo
+:figure-caption: Figura
+:important-caption: Importante
+:last-update-label: Última actualización
+:note-caption: Nota
+:preface-title: Prefacio
+:table-caption: Táboa
+:tip-caption: Consello
+:toc-title: Índice de contidos
+:untitled-label: Sen título
+:version-label: Versión
+:warning-caption: Aviso
